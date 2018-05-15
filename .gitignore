@@ -13,3 +13,23 @@ OpenCV camera detection/Debug
 OpenCV camera detection/doc
 OpenCV camera detection/Release
 
+OpenCV camera detection/OpenCV/dll/Debug/
+OpenCV camera detection/OpenCV/dll/Release/opencv_stitching2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_photo2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_ocl2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_objdetect2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_nonfree2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_ml2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_legacy2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_imgproc2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_highgui2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_gpu2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_flann2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_ffmpeg2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_features2d2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_core2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_contrib2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_calib3d2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_videostab2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_video2413.dll
+OpenCV camera detection/OpenCV/dll/Release/opencv_superres2413.dll
