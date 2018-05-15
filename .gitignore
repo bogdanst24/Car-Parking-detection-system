@@ -5,8 +5,11 @@ Android Mobile app/.idea/workspace.xml
 Android Mobile app/.idea/libraries
 Android Mobile app/DS_Store
 Android Mobile app/build
+Android Mobile app/app/build
 Android Mobile app/captures
 Android Mobile app/externalNativeBuild
+
 OpenCV camera detection/Debug
 OpenCV camera detection/doc
 OpenCV camera detection/Release
+

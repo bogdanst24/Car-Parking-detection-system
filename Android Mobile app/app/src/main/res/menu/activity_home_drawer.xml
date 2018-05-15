@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_closer_spot"
+            android:icon="@drawable/ic_explore_black_24dp"
+            android:title="Find closer spot" />
+        <item
+            android:id="@+id/nav_planning"
+            android:icon="@drawable/ic_directions_car_black_24dp"
+            android:title="Park planning" />
+        <item
+            android:id="@+id/nav_all_parking_spots"
+            android:icon="@drawable/ic_local_parking_black_24dp"
+            android:title="All parking spots" />
+        <item
+            android:id="@+id/nav_routing"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Routing" />
+    </group>
+
+    <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+    </group>
+
+</menu>
