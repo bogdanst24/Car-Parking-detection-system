@@ -358,8 +358,8 @@ void parkLotDetect(VideoCapture cap) {
 			break;
 		}
 
-		//edgeDetection(gray, grayLeveled, output, output2, dilated);
-		//colorDensityDetection();
+		edgeDetection(gray, grayLeveled, output, output2, dilated);
+		colorDensityDetection();
 		distanceTransform();
 		getSettingPoints(frame);
 		imshow(WIN_SOURCE, frame);
